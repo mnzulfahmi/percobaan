@@ -1,0 +1,10 @@
+div {
+    text-align: center;
+    margin-top: 40vh;
+}
+
+button {
+    border-radius: 10px;
+    background-color: #grey;
+    padding: 10px 30px;
+}
